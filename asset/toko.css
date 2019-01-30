@@ -1,0 +1,181 @@
+.navbar-inverse {
+    background-color: lightpink;
+    border-color: #080808;
+}
+.navbar-brand > b{
+      color: black;
+    font-size: 30px;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: #ffffff;
+    font-weight: bold;
+    transition: all 1s;
+}
+.navbar-inverse .navbar-nav > li > a:hover {
+    background: black;
+    transition: all 1s;
+}
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    line-height: 1;
+    width: 100%;
+}
+.carousel-caption > h2{
+    color: black;
+}
+.jarak-atas{
+    margin-top: 50px;
+}
+.read{
+    display: none;!----Tidakditampilkan--------!
+}
+.thumbnail{
+    position: relative;
+}
+.thumbnail:hover .read{
+    display: block;
+    position: absolute;
+    top: 33%;
+    bottom: 33%;
+    left:  33%;
+    right: 33%;
+    color: black;
+    z-index: 999;
+}
+.thumbnail:hover{
+    opacity:0.5;
+}
+.form-group{
+ width: 200px;   
+}
+.input{
+    width: 100%;
+    height: 35px;
+}
+.garis{
+    color: lightpink;
+}
+.col-md-12{
+    
+}
+.pagination {
+    display: inline-block;
+    padding-left: 0;
+    border-radius: 4px;
+}
+.btn btn-default dropdown-toggle{
+    text-decoration: none;
+}
+.sale{
+    text-align: center
+}
+.top{
+    height: 20px;
+    background-color: lightpink;
+    margin-top: 50px;
+}
+.promo > img{
+    max-width: 100%;
+}
+.icon{
+    background-color: lightpink;
+    border-style: none
+}
+.harga{
+    color: red;
+}
+hr {
+    height: 2px;
+    max-width: 82%;
+}
+.inisale > img {
+    float: left;
+}
+.thumbnail 1{
+    background-color: #e9bcd9;
+}
+.normal{
+    text-decoration: line-through;
+}
+.panel-heading{
+    height: 70px;
+}
+.big{
+    font-size: 30px;
+    float: left;
+    font-family: monospace;
+}
+.pager{
+    color: brown;
+}
+.footer{
+    background-color: lightpink;
+    color: white;
+}
+.logo{
+    width: 200px;
+}
+.copy{
+    max-width: 50%;
+    float: left;
+}
+
+.foto > img{
+    align-content: center;
+}
+.jarak{
+    height: 150px;
+}
+.bahasa {
+    float: right;
+}
+.acount-icon{
+    color: black;
+}
+
+<!----------------------FOOTER------------------->
+
+.footer {
+    padding: 50px 0 20px 0;
+    background-color: #35404f;
+    color: #878c94;
+}
+.footer .title{text-align: left;color:#fff;font-size:25px;}
+
+
+.footer .social-icon{padding:0px;margin:0px;}
+.footer .social-icon a{display:inline-block;color:#fff;font-size:25px;padding:5px;}
+.footer .acount-icon a{display:block;color:#fff;font-size:18px;padding:5px;text-decoration:none;}
+.footer .acount-icon .fa{margin-right:25px;}
+
+
+.footer .category a {
+    text-decoration: none;
+    color: #fff;
+    display: inline-block;
+    padding: 5px 20px;
+    margin: 1px;
+    border-radius:4px;
+    margin-top: 6px;
+    background-color: black;
+    border: solid 1px #fff;
+}
+
+.footer .payment{margin:0px;padding:0px;list-style-type:none}
+.footer .payment li{list-style-type:none}
+.footer .payment li a {
+    text-decoration: none;
+    display: inline-block;
+    color: #fff;
+    float: left;
+    font-size: 25px;
+    padding: 10px 10px;
+}
+.gariss{
+    max-width: 100%;
+}
+.kat{
+    color: white;
+}
+.user-image{
+    color: white;
+}

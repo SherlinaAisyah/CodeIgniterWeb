@@ -1,0 +1,36 @@
+.jarakatas{
+    margin-top: 100px;
+}
+body{
+    background-image: url(gambar/bg.jpg);
+}
+.gambar{
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+    margin-left: 30%;
+}
+.formisi{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.judul{
+    margin-left: 22%;
+    margin-right: 22%;
+    width: 200px;
+    height: 50px;
+}
+.sgup{
+    text-decoration: none;
+}
+.line2{
+    width: 80%;
+    position: relative;
+}
+.ini{
+    text-decoration: none;
+    color: black;
+}
+.iniadalah{
+    position: absolute;
+}
